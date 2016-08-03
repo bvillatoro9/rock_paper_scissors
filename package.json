@@ -1,0 +1,24 @@
+{
+  "name": "rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "## Description Built a Github repo with a team. Upstream Repos Team Repo 1 Team Repo 2 Start with one and then team will fork the repo, so that the project manager’s repo is cloned into the teammates repo. Teammates repo will be named origin, and project manager’s repo will be called upstream. Upstream is where the code will be; project manager will build repo with basic",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "normalize.css": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycejyu/rock_paper_scissors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joycejyu/rock_paper_scissors/issues"
+  },
+  "homepage": "https://github.com/joycejyu/rock_paper_scissors#readme"
+}
