@@ -13,9 +13,9 @@ Upstream is where the code will be; project manager will build repo with basic
 ## Instructions
 Create the pages:
 
-[] index.html
-[] about.html page that talks about it
-[] play.html
+[X] index.html
+[X] about.html page that talks about it
+[X] play.html
 
 ## Requirements:
 * npm
@@ -31,12 +31,12 @@ Create the pages:
     - 
 _Notes:_
 
-[]Create a folder named **rps**
-[]Inside **rps**, create folders named **css**, **img**, **js**
-[x] **README.md** written in markdown
-[]Inside css folder, creat style.css
-[]Inside js folder, app.js
-[]Create github repo. 
+[X]Create a folder named **rps**
+[X]Inside **rps**, create folders named **css**, **img**, **js**
+[X] **README.md** written in markdown
+[X]Inside css folder, creat style.css
+[X]Inside js folder, app.js
+[X]Create github repo. 
 
 
 
